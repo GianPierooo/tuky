@@ -1,0 +1,13 @@
+# Carpeta para banners del carrusel principal (Hero)
+# Formato: JPG o PNG
+# Dimensiones: 
+#   - Desktop: 1920x600px (ratio 16:5)
+#   - Mobile: 1200x800px (ratio 3:2)
+# Resolución: 72 DPI
+# Peso máximo: 300KB por banner
+#
+# Ejemplo de nombres:
+# - banner-bienvenida.jpg
+# - banner-promociones.jpg
+# - banner-delivery.jpg
+

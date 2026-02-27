@@ -1,0 +1,11 @@
+# Carpeta para imágenes de promociones
+# Formato: JPG o PNG
+# Dimensiones: 1200x675px (ratio 16:9)
+# Resolución: 72 DPI
+# Peso máximo: 250KB por imagen
+#
+# Ejemplo de nombres:
+# - promo-2x1-bebidas.jpg
+# - promo-descuento-lacteos.jpg
+# - promo-helados-verano.jpg
+

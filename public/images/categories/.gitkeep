@@ -1,0 +1,12 @@
+# Carpeta para iconos/imágenes de categorías (OPCIONAL)
+# Por defecto usamos emojis, pero puedes usar iconos personalizados
+# Formato: PNG con transparencia o SVG
+# Dimensiones: 256x256px (cuadrado)
+# Resolución: 72 DPI
+# Peso máximo: 50KB por icono
+#
+# Ejemplo de nombres:
+# - bebidas.png
+# - snacks.png
+# - lacteos.png
+
